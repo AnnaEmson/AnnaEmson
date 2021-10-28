@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Front End developer working with React.js 
+
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaEmson&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AnnaEmson/AnnaEmson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
